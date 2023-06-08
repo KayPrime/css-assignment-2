@@ -1,0 +1,30 @@
+.body {
+    background-color: blue;
+}
+
+h1 {
+    color: red;
+}
+
+.three {
+    display: inline-block;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.form {
+    display: table;
+}
+div.form {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10 px;
+}
+
+label {
+    padding-right: 10px;
+}
